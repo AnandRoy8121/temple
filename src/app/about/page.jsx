@@ -96,6 +96,7 @@ const page = () => {
                     <Image
                       src={item.img}
                       fill
+                      alt=""
                       className="object-cover rounded-lg"
                     />
                   </div>
